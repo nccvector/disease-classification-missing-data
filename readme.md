@@ -1,5 +1,4 @@
-# Disease Classification using Bayesian Networks and Missing Data
-## Decision making under uncertainity
+# Disease Classification using Bayesian Networks and Missing Data (decision making under uncertainity)
 
 ## The problem
 Olertawo is a university town in New Zealand in which there is a strange medical condition called Dunetts Syn-
@@ -17,6 +16,11 @@ Degar spots are sometimes present (but much less often) even if the person does 
 You are given a dataset from 2000 patients, giving the existence of the three symptoms Sloepnea, Forienndi-
 tis and Degar spots, and whether they have gene TRIMONO-HT/S or not. About 5% of the data also has a
 record of whether the patient actually had Dunetts Syndrome or not.
+
+## Initial Bayesian Network for the problem
+<img src="figs/network graph.jpg" align="middle" />
+
+<br />
 
 # Dependencies
 - pomegranate
